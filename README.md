@@ -12,4 +12,4 @@ unzip cloudbeaver.zip
 
 cd cloudbeaver
 
-./run_server.sh
+./run-server.sh
