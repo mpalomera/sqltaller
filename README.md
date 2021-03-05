@@ -13,3 +13,6 @@ unzip cloudbeaver.zip
 cd cloudbeaver
 
 ./run-server.sh
+
+## Tutorial
+https://sqlbolt.com
