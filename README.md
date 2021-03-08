@@ -14,5 +14,7 @@ cd cloudbeaver
 
 ./run-server.sh
 
-## Tutorial
-https://sqlbolt.com
+## Ligas de interes
+tutorial https://sqlbolt.com
+ER https://creately.com/blog/diagrams/er-diagrams-tutorial/
+Herramienta para ER https://erdplus.com
