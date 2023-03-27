@@ -8,7 +8,8 @@ createdb Adventureworks
 psql Adventureworks < Adventureworks.sql
 
 ## Start db ide
-unzip cloudbeaver.zip 
+zip -F cloudbeaver.zip --out single-archive.zip
+unzip single-archive.zip
 
 cd cloudbeaver
 
